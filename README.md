@@ -1,2 +1,2 @@
 # test-repository
-Nauka_kodowania
+simple-quote-page
